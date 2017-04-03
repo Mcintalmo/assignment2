@@ -2,7 +2,7 @@
 //
 // MSP432 main.c
 //
-// Assignment 1.b
+// Assignment 1.a
 //
 // Press button 1.1 to switch between manual cycle mode and automatic cycle mode.
 // Press button 1.4 to cycle to the next LED color while in manual cycle mode.

@@ -201,10 +201,10 @@ void Default_Handler(void)
     #pragma diag_push
     #pragma CHECK_ULP("-2.1")
 
-	/* Enter an infinite loop. */
-	while(1)
-	{
-	}
+    /* Enter an infinite loop. */
+    while(1)
+    {
+    }
 
-	#pragma diag_pop
+    #pragma diag_pop
 }
